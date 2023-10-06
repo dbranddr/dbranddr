@@ -1,6 +1,4 @@
-<h1>Hello, Im Chijioke Earnest ✨☘️</h1>
-
-![Github_1](https://github.com/dbranddr/dbranddr/assets/91701203/4bf20e78-49ef-4f98-b332-aa02f47f2030)
+![Github_header](https://github.com/dbranddr/dbranddr/assets/91701203/4bf20e78-49ef-4f98-b332-aa02f47f2030)
 
 I 'm a Lead Designer (Brand & product) with years of professional experience in Design and have a track record in brand communication, Frontend Development, Product Strategy, User Experience/ Interface Design, and Content Development on a global scale.
 
