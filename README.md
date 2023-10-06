@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dbranddr
-- 👀 I’m a brand & uiux designer and also a front-end developer 
-- 🌱 I’m currently learning flutter and react language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+![Header github](https://github.com/dbranddr/dbranddr/assets/91701203/7b40ecae-efb5-4338-8e3a-2aa1c8171760)
+
 
 <!---
 dbranddr/dbranddr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
